@@ -51,10 +51,4 @@ Recommendations for various business scenarios were provided, including strategi
 ## Conclusions
 The logistic regression model serves as a robust foundation for enhancing X Education's lead conversion strategy. With further refinement and the integration of more complex algorithms, there's potential to achieve even greater accuracy.
 
----
 
-This README.md provides a snapshot of the project, its objectives, methods, findings, and conclusions. I'll save it to a file for you.
-
-The content has been saved to a `README.md` file. You can [download the README.md file here](sandbox:/mnt/data/README.md).
-
-Would you like assistance with any other aspects of this project or any other inquiries?
